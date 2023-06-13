@@ -1,3 +1,4 @@
+<img src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/06/Matt-Farleys-portfolio.webp">
 <h1 align="center">Hi! My name is Haider!</h1>
 <h2 align="center">I am working on making myself the best engineer I can be!</h3>
 <img align="right" alt="Coding" width="400" height="200" src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif">
